@@ -7,7 +7,7 @@
     <groupId>demo</groupId>
     <artifactId>rjc.demo</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>war</packaging>
     <!-- 公共spring-boot配置，下面依赖jar文件不用在写版本号 -->
     <parent>
         <groupId>org.springframework.boot</groupId>
